@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+\\vmware-host\Shared Folders\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+\\vmware-host\Shared Folders\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+\\vmware-host\Shared Folders\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+\\vmware-host\Shared Folders\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
